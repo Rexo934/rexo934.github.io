@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+}
+
+.container0 {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  height: 100vh;
+}
+
+.container {
+  background: rgb(77, 88, 185);
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-style: italic;
+  color: white;
+  font-size: 19px;
+}
+
+#scroll {
+  cursor: pointer;
+}
